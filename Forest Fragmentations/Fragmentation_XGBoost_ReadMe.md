@@ -5,7 +5,7 @@ This repository provides a complete pipeline for analyzing forest fragmentation 
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ### 1. MSPA Fragmentation Classes
 - Original MSPA maps (e.g., from GUIDOS Toolbox) were created and reclassified into 4 simplified classes:
@@ -59,7 +59,7 @@ Model interpretation using SHAP:
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```text
 ├── Analysis/
@@ -82,7 +82,7 @@ Model interpretation using SHAP:
 
 install.packages(c("terra", "sf", "dplyr", "caret", "xgboost", "e1071", "pROC", "iml", "shapviz", "ggplot2"))
 ```
-## 📜 Citation
+##  Citation
 If you use this repository or scripts, please cite:
 
 Vogt et al. (2007). “Mapping functional connectivity.” Ecological Indicators.
@@ -90,7 +90,7 @@ Vogt et al. (2007). “Mapping functional connectivity.” Ecological Indicators
 Lundberg & Lee (2017). “A Unified Approach to Interpreting Model Predictions.” NeurIPS.
 
 
-## 🧑‍💻 Author
+##  Author
 Developed by [Gohar]
 Research Focus: Forest Fragmentation, Remote Sensing, Machine Learning
  - Analysis conducted in R using MSPA outputs from GUIDOS Toolbox
