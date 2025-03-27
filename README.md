@@ -132,7 +132,7 @@ This project is licensed under the MIT License.
 ## Contact
 - Name:  Gohar
 - Vegetation Remote Sensing & Machine Learning
-Email: 
+- Email:gohar@gmail.com 
 
 
 
