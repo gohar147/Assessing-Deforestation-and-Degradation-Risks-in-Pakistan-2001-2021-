@@ -56,7 +56,7 @@ This study focuses on monitoring land use transformation and forest dynamics in 
   - Explain model behavior using SHAP values
 - **Tools:** `terra`, `xgboost`, `caret`, `iml`, `shapviz`
 
-## Refer to: `Forest Fragmentations/Fragmentation_XGBoost_ReadMe.md`
+Refer to: `Forest Fragmentations/Fragmentation_XGBoost_ReadMe.md`
 
 ---
 
@@ -75,7 +75,7 @@ This study focuses on monitoring land use transformation and forest dynamics in 
 
 ---
 
-## 📉 LULC Change Detection & Transition Analysis
+##  LULC Change Detection & Transition Analysis
 
 - **Script:** `Lulc Change Detection.r`
 - **Temporal Comparisons:**
@@ -93,11 +93,11 @@ This study focuses on monitoring land use transformation and forest dynamics in 
   - Visualizations via `ggplot2`
   - Annual rate of deforestation calculations
 
-📄 Refer to: `Lulc Classification and Deforestation Analysis/Lulc Change Detection_ReadMe.md`
+ Refer to: `Lulc Classification and Deforestation Analysis/Lulc Change Detection_ReadMe.md`
 
 ---
 
-## 📊 Machine Learning: XGBoost
+##  Machine Learning: XGBoost
 
 - Balanced sample generation (500 per class)
 - Feature set: LULC, Elevation, Distance to roads/built-up, NDVI, Temp, Ppt, Population
@@ -132,7 +132,7 @@ This project is licensed under the MIT License.
 ## Contact
 - Name:  Gohar
 - Vegetation Remote Sensing & Machine Learning
-- Email:goharansari.00@gmail.com
+- Email: goharansari.00@gmail.com
 
 
 
