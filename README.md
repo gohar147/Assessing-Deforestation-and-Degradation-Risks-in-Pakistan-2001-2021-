@@ -130,8 +130,8 @@ install.packages(c("terra", "raster", "sf", "caret", "xgboost",
 This project is licensed under the MIT License.
 
 ## Contact
-Your Gohar
-Vegetation Remote Sensing & Machine Learning
+- Name:  Gohar
+- Vegetation Remote Sensing & Machine Learning
 Email: 
 
 
