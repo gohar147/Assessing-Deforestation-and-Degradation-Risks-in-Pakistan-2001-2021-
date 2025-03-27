@@ -1,5 +1,3 @@
-# Assessing-Deforestation-and-Degradation-Risks-in-Pakistan-2001-2021-
-DeforestationPakistan
 # Land Use Land Cover (LULC) and Deforestation Analysis in Pakistan (2001–2021)
 
 This repository contains all scripts, workflows, and outputs related to the LULC classification and deforestation modeling conducted over Pakistan between 2001 and 2021. The project leverages Google Earth Engine (GEE), R-based machine learning, and SHAP-based explainability to understand land cover changes and deforestation drivers.
