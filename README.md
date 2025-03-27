@@ -1,10 +1,10 @@
-# 🌍 Land Use, Forest Fragmentation & Deforestation Analysis
+#  Land Use, Forest Fragmentation & Deforestation Analysis
 
 This repository provides a complete workflow for land use/land cover (LULC) classification, forest fragmentation mapping, and spatiotemporal deforestation analysis using remote sensing data, machine learning (XGBoost), and Google Earth Engine (GEE).
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -28,7 +28,7 @@ This repository provides a complete workflow for land use/land cover (LULC) clas
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This study focuses on monitoring land use transformation and forest dynamics in response to anthropogenic and ecological drivers. It integrates:
 
@@ -41,7 +41,7 @@ This study focuses on monitoring land use transformation and forest dynamics in 
 
 ---
 
-## 🌳 Forest Fragmentation Analysis
+##  Forest Fragmentation Analysis
 
 - **Data Source:** MSPA outputs from GUIDOS Toolbox
 - **Workflow:**
@@ -56,11 +56,11 @@ This study focuses on monitoring land use transformation and forest dynamics in 
   - Explain model behavior using SHAP values
 - **Tools:** `terra`, `xgboost`, `caret`, `iml`, `shapviz`
 
-📄 Refer to: `Forest Fragmentations/Fragmentation_XGBoost_ReadMe.md`
+## Refer to: `Forest Fragmentations/Fragmentation_XGBoost_ReadMe.md`
 
 ---
 
-## 🛰️ LULC Classification & Google Earth Engine
+##  LULC Classification & Google Earth Engine
 
 - **Scripts:**
   - `Lulc Classification Gee.js`
@@ -132,7 +132,7 @@ This project is licensed under the MIT License.
 ## Contact
 - Name:  Gohar
 - Vegetation Remote Sensing & Machine Learning
-- Email:gohar@gmail.com 
+- Email:goharansari.00@gmail.com
 
 
 
