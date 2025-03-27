@@ -81,3 +81,16 @@ Model interpretation using SHAP:
 └── mspa_xgboost_pipeline.R
 
 install.packages(c("terra", "sf", "dplyr", "caret", "xgboost", "e1071", "pROC", "iml", "shapviz", "ggplot2"))
+```
+## 📜 Citation
+If you use this repository or scripts, please cite:
+
+Vogt et al. (2007). “Mapping functional connectivity.” Ecological Indicators.
+
+Lundberg & Lee (2017). “A Unified Approach to Interpreting Model Predictions.” NeurIPS.
+
+
+## 🧑‍💻 Author
+Developed by [Gohar]
+Research Focus: Forest Fragmentation, Remote Sensing, Machine Learning
+ - Analysis conducted in R using MSPA outputs from GUIDOS Toolbox
